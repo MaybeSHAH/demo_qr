@@ -1,0 +1,25 @@
+{
+  "name": "demo_qr",
+  "version": "1.0.0",
+  "description": "print to brother ql from node js",
+  "main": "testPrint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaybeSHAH/demo_qr.git"
+  },
+  "author": "Maybe_shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaybeSHAH/demo_qr/issues"
+  },
+  "homepage": "https://github.com/MaybeSHAH/demo_qr#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "printer": "^0.4.0",
+    "util": "^0.12.4"
+  }
+}
